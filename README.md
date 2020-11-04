@@ -5,6 +5,13 @@ A mod i made for minecraft
 
 Enjoy playing ;-)
 
+_______V2.1__________________
+
+- Fixed chocolate armor look
+- Lowered chocolate and oak leaves' sapling, caramel and chocolate dropping chances
+- Caramel and chocolate wood, planks and saplings can now be used as fuel
+- Caramel and chocolate wood blocks can now be smelted to charcoal
+- Fixed leaves fast/fancy graphics synchronization
 
 _______V2.0__________________
 

@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "RRR",
+        "SSS",
+        "TTT"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "loo_car3:chocolate"
+        },
+        "S":
+        {
+            "item": "loo_car3:caramel"
+        },
+        "T":
+        {
+            "item": "minecraft:wheat"
+        }
+    },
+    
+    "result":
+    {
+        "item": "loo_car3:snicker_bar",
+        "count": 4
+    }
+}

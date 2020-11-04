@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "RR",
+        "Rs",
+        " s"
+    ],
+    "key":
+    {
+        "R": {"item": "loo_car3:caramel" },
+        "s": {"item": "minecraft:reeds" }
+    },
+    "result":
+    {
+        "item": "loo_car3:caramel_axe",
+        "count": 1
+    }
+}

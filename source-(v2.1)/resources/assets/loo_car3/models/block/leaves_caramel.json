@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "loo_car3:blocks/leaves_caramel"
+    }
+}

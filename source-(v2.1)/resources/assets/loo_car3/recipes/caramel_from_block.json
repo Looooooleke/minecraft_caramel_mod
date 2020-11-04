@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "R"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "loo_car3:block_caramel"
+        }
+    },
+    
+    "result":
+    {
+        "item": "loo_car3:caramel",
+        "count": 9
+    }
+}

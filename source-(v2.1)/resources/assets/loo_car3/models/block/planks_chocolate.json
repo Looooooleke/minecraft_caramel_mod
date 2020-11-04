@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "loo_car3:blocks/planks_chocolate"
+    }
+}

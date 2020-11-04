@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "loo_car3:blocks/sapling_chocolate"
+    }
+}

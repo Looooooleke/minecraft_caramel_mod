@@ -1,0 +1,6 @@
+{
+ "parent": "item/generated",
+ "textures":{
+ "layer0": "loo_car3:blocks/sapling_caramel"
+ }
+}

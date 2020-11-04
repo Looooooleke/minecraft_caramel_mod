@@ -1,0 +1,6 @@
+{
+ "parent": "item/handheld",
+ "textures":{
+ "layer0": "loo_car3:items/caramel_shovel"
+ }
+}

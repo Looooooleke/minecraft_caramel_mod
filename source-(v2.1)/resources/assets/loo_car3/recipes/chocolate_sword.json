@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "R",
+        "R",
+        "s"
+    ],
+    "key":
+    {
+        "R": {"item": "loo_car3:chocolate" },
+        "s": {"item": "minecraft:stick" }
+    },
+    "result":
+    {
+        "item": "loo_car3:chocolate_sword",
+        "count": 1
+    }
+}

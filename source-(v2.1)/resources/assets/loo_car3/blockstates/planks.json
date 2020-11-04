@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=0": { "model": "loo_car3:planks_caramel" },
+        "type=1": { "model": "loo_car3:planks_chocolate" },
+        "type=2": { "model": "loo_car3:bock_caramel" }
+    }
+}

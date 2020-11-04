@@ -1,0 +1,16 @@
+{
+	"variants": {
+		"type=0": { "model": "loo_car3:log_caramel" } ,
+		"type=1": { "model": "loo_car3:log_chocolate" } ,
+		
+		"type=4": { "model": "loo_car3:log_caramel", "x":90 } ,
+		"type=5": { "model": "loo_car3:log_chocolate", "x":90 } ,
+		
+		"type=8": { "model": "loo_car3:log_caramel", "x":90,"y":90 } ,
+		"type=9": { "model": "loo_car3:log_chocolate", "x":90,"y":90 } ,
+		
+		"type=12": { "model": "loo_car3:log_caramel" } ,
+		"type=13": { "model": "loo_car3:log_chocolate" } 
+		
+	}
+}

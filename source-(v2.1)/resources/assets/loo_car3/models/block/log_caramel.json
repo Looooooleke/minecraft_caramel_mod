@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "loo_car3:blocks/log_caramel_axis",
+        "side": "loo_car3:blocks/log_caramel"
+    }
+}

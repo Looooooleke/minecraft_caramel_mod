@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "R R",
+        "RRR",
+        "RRR"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "loo_car3:chocolate"
+        }
+    },
+    
+    "result":
+    {
+        "item": "loo_car3:chocolate_chestplate",
+        "count": 1
+    }
+}

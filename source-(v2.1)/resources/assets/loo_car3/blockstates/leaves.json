@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"check_decay=true,decayable=true,type=0": { "model": "loo_car3:leaves_caramel" } ,
+		"check_decay=false,decayable=true,type=0": { "model": "loo_car3:leaves_caramel" } ,
+		"check_decay=false,decayable=false,type=0": { "model": "loo_car3:leaves_caramel" } ,
+		"check_decay=true,decayable=false,type=0": { "model": "loo_car3:leaves_caramel" } ,
+		
+		"check_decay=true,decayable=true,type=1": { "model": "loo_car3:leaves_chocolate" } ,
+		"check_decay=false,decayable=true,type=1": { "model": "loo_car3:leaves_chocolate" } ,
+		"check_decay=false,decayable=false,type=1": { "model": "loo_car3:leaves_chocolate" } ,
+		"check_decay=true,decayable=false,type=1": { "model": "loo_car3:leaves_chocolate" } 
+	}
+}

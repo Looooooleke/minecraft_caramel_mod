@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "R",
+        "s",
+        "s"
+    ],
+    "key":
+    {
+        "R": {"item": "loo_car3:chocolate" },
+        "s": {"item": "minecraft:stick" }
+    },
+    "result":
+    {
+        "item": "loo_car3:chocolate_shovel",
+        "count": 1
+    }
+}

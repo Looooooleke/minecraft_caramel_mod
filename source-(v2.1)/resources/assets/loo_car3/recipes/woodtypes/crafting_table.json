@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+       "pattern":
+    [
+        "RR",
+        "RR"
+    ],
+    
+    "key":
+    {
+        "R":
+        [
+        {"item": "minecraft:planks","data": 0},
+     	{"item": "minecraft:planks","data": 1},
+		{"item": "minecraft:planks","data": 2},
+		{"item": "minecraft:planks","data": 3},
+     	{"item": "minecraft:planks","data": 4},
+      	{"item": "minecraft:planks","data": 5},
+      	{"item": "loo_car3:planks","data": 0},
+      	{"item": "loo_car3:planks","data": 1}
+        ]
+    },
+    
+    "result":
+    {
+        "item": "minecraft:crafting_table",
+        "count": 1
+    }
+}

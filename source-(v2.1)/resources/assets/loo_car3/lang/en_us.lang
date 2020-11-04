@@ -1,0 +1,42 @@
+itemGroup.caramel=Caramel
+
+item.caramel.name=Caramel
+item.snicker_bar.name=Snicker Bar
+item.chocolate.name=Chocolate
+
+tile.block_chocolate.name=Chocolate Block
+item.chocolate_helmet.name=Chocolate Helmet
+item.chocolate_leggings.name=Chocolate Leggings
+item.chocolate_chestplate.name=Chocolate Chestplate
+item.chocolate_boots.name=Chocolate Boots
+item.chocolate_pickaxe.name=Chocolate Pickaxe
+item.chocolate_hoe.name=Chocolate Hoe
+item.chocolate_shovel.name=Chocolate Shovel
+item.chocolate_axe.name=Chocolate Axe
+item.chocolate_sword.name=Chocolate Sword
+
+tile.block_caramel.name=Caramel Block
+item.caramel_pickaxe.name=Caramel Pickaxe
+item.caramel_hoe.name=Caramel Hoe
+item.caramel_shovel.name=Caramel Shovel
+item.caramel_axe.name=Caramel Axe
+item.caramel_sword.name=Caramel Sword
+item.caramel_helmet.name=Caramel Helmet
+item.caramel_leggings.name=Caramel Leggings
+item.caramel_chestplate.name=Caramel Chestplate
+item.caramel_boots.name=Caramel Boots
+
+item.test_1.name=Test Item 1
+item.test_2.name=Test Item 2
+
+tile.log_caramel.name=Caramel Log
+tile.log_chocolate.name=Chocolate Log
+tile.leaves_caramel.name=Caramel Leaves
+tile.leaves_chocolate.name=Chocolate Leaves
+tile.sapling_caramel.name=Caramel Sapling
+tile.sapling_chocolate.name=Chocolate Sapling
+tile.planks_chocolate.name=Chocolate Planks
+tile.planks_caramel.name=Caramel Planks
+
+tile.ore_caramel.name=Caramel Ore
+tile.ore_chocolate.name=Chocolate Ore

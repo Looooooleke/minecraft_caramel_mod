@@ -1,0 +1,8 @@
+{
+"variants":{
+	"stage=0,type=0":{"model":"loo_car3:sapling_caramel"},
+	"stage=0,type=1":{"model":"loo_car3:sapling_chocolate"},
+	"stage=1,type=0":{"model":"loo_car3:sapling_caramel"},
+	"stage=1,type=1":{"model":"loo_car3:sapling_chocolate"}
+}
+}

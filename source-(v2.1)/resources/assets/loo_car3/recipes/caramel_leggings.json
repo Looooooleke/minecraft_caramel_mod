@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "RRR",
+        "R R",
+		"R R"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "loo_car3:caramel"
+        }
+    },
+    
+    "result":
+    {
+        "item": "loo_car3:caramel_leggings",
+        "count": 1
+    }
+}
